@@ -32,7 +32,7 @@
 
 ###
 
-<img align="right" height="100%" src="https://i.postimg.cc/3NphZmzq/UI-Developer.gif++7"  />
+<img align="center" height="100%" src="https://i.postimg.cc/3NphZmzq/UI-Developer.gif++7"  />
 
 ###
 
