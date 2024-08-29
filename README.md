@@ -87,6 +87,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohammad-sami-chowdhury/mohammad-sami-chowdhury/output/snake.svg](https://svgshare.com/i/19ns.svg)" alt="Snake animation" />
+<a href='https://svgshare.com/s/19ns' ><img src='https://svgshare.com/i/19ns.svg' title='' /></a>
 
 ###
