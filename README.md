@@ -6,7 +6,15 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on DevOps technologies.<br>🌱 I’m currently learning Frameworks, courses etc.<br>👨‍💻 All of my projects are available at www.mohammadsami.xyz<br>❓Ask me about anything related to the MERN stack and related technologies <br>📫 How to reach me contact@mohammadsami.xyz</p>
+- 🔭 I’m currently working on **DevOps technologies.**
+
+- 🌱 I’m currently learning **Frameworks, courses etc.**
+
+- 👨‍💻 All of my projects are available at [www.mohammadsami.xyz](www.mohammadsami.xyz)
+
+- ❓ Ask me about anything **related to the MERN stack and related technologies**
+
+- 📫 How to reach me **contact@mohammadsami.xyz**
 
 ###
 
