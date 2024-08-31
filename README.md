@@ -23,7 +23,7 @@
 </p>
 
 - 💬 Ask me about **React, firebase ,MongoDB , express , Tailwind CSS, Web
-design, Node js **
+design, Node js**
 - ⚡ Fun fact **I Think I am Funny**
 - 👨‍💻 All of my projects
 are available at **<a href="https://mohammadsami.xyz">www.mohammadsami.xyz</a>**
