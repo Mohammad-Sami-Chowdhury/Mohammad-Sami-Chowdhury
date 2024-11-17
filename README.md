@@ -220,7 +220,4 @@ are available at **<a href="https://mohammadsami.xyz">www.mohammadsami.xyz</a>**
     alt="languages graph"
   />
 </div>
-<div align="center">
-  <a href="https://mohammadsami.xyz/"><img src="https://i.ibb.co.com/Yb5VXpF/PRPuju.gif" alt="Mohammad Sami"></a>
-</div>
 
