@@ -26,7 +26,7 @@
 design, Node js**
 - ⚡ Fun fact **I Think I am Funny**
 - 👨‍💻 All of my projects
-are available at **<a href="https://mohammadsami.xyz">www.mohammadsami.xyz</a>**
+are available at **<a href="https://mohammadsami.vercel.app">mohammadsami.vercel.app</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -107,18 +107,6 @@ are available at **<a href="https://mohammadsami.xyz">www.mohammadsami.xyz</a>**
     />
   </a>
   <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -142,14 +130,6 @@ are available at **<a href="https://mohammadsami.xyz">www.mohammadsami.xyz</a>**
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
       width="40"
       height="40"
     />
@@ -209,11 +189,11 @@ are available at **<a href="https://mohammadsami.xyz">www.mohammadsami.xyz</a>**
     height="150"
     alt="stats graph"
   />
-<!--   <img
+  <img
     src="https://streak-stats.demolab.com?user=mohammad-sami-chowdhury&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
     height="150"
     alt="streak graph"
-  /> -->
+  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-sami-chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     height="150"
